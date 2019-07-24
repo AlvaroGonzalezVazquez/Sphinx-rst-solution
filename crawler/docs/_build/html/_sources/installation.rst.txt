@@ -1,0 +1,13 @@
+Installation
+============
+
+.. code-bloc::bash
+
+At the command line:: 
+
+	easy_install_crawler
+
+Or, if you have pip installed::
+
+	pip install crawler
+

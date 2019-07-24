@@ -1,0 +1,17 @@
+Command Line Options
+====================
+
+These flags allow you to change the behavior of `Crawler`. Check out how to use them in `Cookbook`_
+
+
+.. option:: -i <regex>, --ignore <regex>
+	
+	Ignore pages that match a specific pattern
+
+.. option:: -d <sec>, --delay <sec>
+
+	Use a delay in between page fetch so we don't overwhelm the remote server. Value in seconds.
+
+	Default: 1 second
+
+.. _Cookbook: file:///C:/Users/Alvaro%20Gonzalez/Desktop/pycon-sphinx-tutorial/crawler/docs/_build/html/cookbook.html
